@@ -24,7 +24,7 @@
         <jstl-version>1.2</jstl-version>
         <standard-version>1.1.2</standard-version>
         <!-- spring -->
-        <spring-webmvc-version>5.1.3.RELEASE</spring-webmvc-version>
+        <spring-webmvc-version>5.3.18</spring-webmvc-version>
         <spring-jdbc-version>5.1.3.RELEASE</spring-jdbc-version>
         <aspectjweaver-version>1.9.1</aspectjweaver-version>
         <!-- mybatis -->
